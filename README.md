@@ -19,32 +19,19 @@ The following **required** functionality is completed:
 - [x] **The web app serves an appropriate 404 page when no matching route is defined**
 - [x] **The web app is appropriately styled using Picocss**
 
-The following **optional** features are implemented:
-
-- [ ] The web app displays items in a unique format, such as cards rather than lists
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you added to improve the site's functionality!
-
 ## Video Walkthrough
-
-**Note: please be sure to 
 
 Here's a walkthrough of implemented required features:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/parthskansara/AI-Models-List/blob/master/client/public/GIF_Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  Add GIF tool here
+GIF created with ShareX
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
-
-Describe any challenges encountered while building the app or any additional context you'd like to add.
 
 ## License
 
